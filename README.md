@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+1、TCP_Socket项目运行在windows系统，项目实现流程：TCP客户端通过模拟串口接收到的数据保存为json文件，然后把数据发送给TCP服务端，TCP服务端接收到数据保存到MySQL8.0数据库。
+2、jsj_teachers项目运行在ubuntu18.04系统，使用scrapy框架爬取学院老师的个人简介，提取信息然后保存到MySQL8.0数据库。
